@@ -7,6 +7,8 @@ development environment.
 
 This is an example of a commit!
 
+This is another example :)
+
 The project is meant to be a starter for your chatbot project.
 
 To use this project do the following:
